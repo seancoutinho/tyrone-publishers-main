@@ -1,0 +1,333 @@
+$flaticon_Tyrone Publishers-font: "flaticon_Tyrone Publishers";
+
+@font-face {
+    font-family: $flaticon_Tyrone Publishers-font;
+    src: url("./flaticon_Tyrone Publishers.ttf?7b6ef4e4b2d119c932b2491eed1ed072") format("truetype"),
+url("./flaticon_Tyrone Publishers.woff?7b6ef4e4b2d119c932b2491eed1ed072") format("woff"),
+url("./flaticon_Tyrone Publishers.woff2?7b6ef4e4b2d119c932b2491eed1ed072") format("woff2"),
+url("./flaticon_Tyrone Publishers.eot?7b6ef4e4b2d119c932b2491eed1ed072#iefix") format("embedded-opentype"),
+url("./flaticon_Tyrone Publishers.svg?7b6ef4e4b2d119c932b2491eed1ed072#flaticon_Tyrone Publishers") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_Tyrone Publishers !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_Tyrone Publishers-map: (
+    "right-arrow": "\f101",
+    "down-arrow": "\f102",
+    "right-arrow-1": "\f103",
+    "left": "\f104",
+    "next": "\f105",
+    "mouse-cursor": "\f106",
+    "arrow": "\f107",
+    "sync": "\f108",
+    "puzzle-piece": "\f109",
+    "profit": "\f10a",
+    "dashboard": "\f10b",
+    "development": "\f10c",
+    "budget": "\f10d",
+    "mission": "\f10e",
+    "briefcase": "\f10f",
+    "challenges": "\f110",
+    "report": "\f111",
+    "investment": "\f112",
+    "taxes": "\f113",
+    "briefcase-1": "\f114",
+    "design": "\f115",
+    "money": "\f116",
+    "rocket": "\f117",
+    "piggy-bank": "\f118",
+    "save-money": "\f119",
+    "business-presentation": "\f11a",
+    "data-management": "\f11b",
+    "folder": "\f11c",
+    "handshake": "\f11d",
+    "report-1": "\f11e",
+    "calculator": "\f11f",
+    "settings": "\f120",
+    "layers": "\f121",
+    "round-table": "\f122",
+    "magnifying-glass": "\f123",
+    "search": "\f124",
+    "user": "\f125",
+    "user-1": "\f126",
+    "padlock": "\f127",
+    "padlock-1": "\f128",
+    "time": "\f129",
+    "clock": "\f12a",
+    "mail": "\f12b",
+    "open-email": "\f12c",
+    "pin": "\f12d",
+    "location": "\f12e",
+    "telephone": "\f12f",
+    "phone-call": "\f130",
+    "support": "\f131",
+    "shopping-cart": "\f132",
+    "shopping-cart-1": "\f133",
+    "heart": "\f134",
+    "heart-1": "\f135",
+    "code": "\f136",
+    "folder-1": "\f137",
+    "curve": "\f138",
+    "inspiration": "\f139",
+    "left-chevron": "\f13a",
+    "trophy": "\f13b",
+    "winner": "\f13c",
+    "rating": "\f13d",
+    "life-insurance": "\f13e",
+    "car-insurance": "\f13f",
+    "protection": "\f140",
+    "travel-insurance": "\f141",
+    "protection-1": "\f142",
+    "conflagration": "\f143",
+    "property-insurance": "\f144",
+    "family": "\f145",
+    "healthcare": "\f146",
+    "house": "\f147",
+    "ship": "\f148",
+    "family-insurance": "\f149",
+    "umbrella": "\f14a",
+    "megaphone": "\f14b",
+    "bubble-chat": "\f14c",
+    "speech-bubble": "\f14d",
+);
+
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "right-arrow");
+}
+.flaticon-down-arrow:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "down-arrow");
+}
+.flaticon-right-arrow-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "right-arrow-1");
+}
+.flaticon-left:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "left");
+}
+.flaticon-next:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "next");
+}
+.flaticon-mouse-cursor:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "mouse-cursor");
+}
+.flaticon-arrow:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "arrow");
+}
+.flaticon-sync:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "sync");
+}
+.flaticon-puzzle-piece:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "puzzle-piece");
+}
+.flaticon-profit:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "profit");
+}
+.flaticon-dashboard:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "dashboard");
+}
+.flaticon-development:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "development");
+}
+.flaticon-budget:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "budget");
+}
+.flaticon-mission:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "mission");
+}
+.flaticon-briefcase:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "briefcase");
+}
+.flaticon-challenges:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "challenges");
+}
+.flaticon-report:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "report");
+}
+.flaticon-investment:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "investment");
+}
+.flaticon-taxes:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "taxes");
+}
+.flaticon-briefcase-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "briefcase-1");
+}
+.flaticon-design:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "design");
+}
+.flaticon-money:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "money");
+}
+.flaticon-rocket:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "rocket");
+}
+.flaticon-piggy-bank:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "piggy-bank");
+}
+.flaticon-save-money:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "save-money");
+}
+.flaticon-business-presentation:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "business-presentation");
+}
+.flaticon-data-management:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "data-management");
+}
+.flaticon-folder:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "folder");
+}
+.flaticon-handshake:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "handshake");
+}
+.flaticon-report-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "report-1");
+}
+.flaticon-calculator:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "calculator");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "settings");
+}
+.flaticon-layers:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "layers");
+}
+.flaticon-round-table:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "round-table");
+}
+.flaticon-magnifying-glass:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "magnifying-glass");
+}
+.flaticon-search:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "search");
+}
+.flaticon-user:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "user");
+}
+.flaticon-user-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "user-1");
+}
+.flaticon-padlock:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "padlock");
+}
+.flaticon-padlock-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "padlock-1");
+}
+.flaticon-time:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "time");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "clock");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "mail");
+}
+.flaticon-open-email:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "open-email");
+}
+.flaticon-pin:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "pin");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "location");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "telephone");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "phone-call");
+}
+.flaticon-support:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "support");
+}
+.flaticon-shopping-cart:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "shopping-cart");
+}
+.flaticon-shopping-cart-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "shopping-cart-1");
+}
+.flaticon-heart:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "heart");
+}
+.flaticon-heart-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "heart-1");
+}
+.flaticon-code:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "code");
+}
+.flaticon-folder-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "folder-1");
+}
+.flaticon-curve:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "curve");
+}
+.flaticon-inspiration:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "inspiration");
+}
+.flaticon-left-chevron:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "left-chevron");
+}
+.flaticon-trophy:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "trophy");
+}
+.flaticon-winner:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "winner");
+}
+.flaticon-rating:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "rating");
+}
+.flaticon-life-insurance:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "life-insurance");
+}
+.flaticon-car-insurance:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "car-insurance");
+}
+.flaticon-protection:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "protection");
+}
+.flaticon-travel-insurance:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "travel-insurance");
+}
+.flaticon-protection-1:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "protection-1");
+}
+.flaticon-conflagration:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "conflagration");
+}
+.flaticon-property-insurance:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "property-insurance");
+}
+.flaticon-family:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "family");
+}
+.flaticon-healthcare:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "healthcare");
+}
+.flaticon-house:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "house");
+}
+.flaticon-ship:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "ship");
+}
+.flaticon-family-insurance:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "family-insurance");
+}
+.flaticon-umbrella:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "umbrella");
+}
+.flaticon-megaphone:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "megaphone");
+}
+.flaticon-bubble-chat:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "bubble-chat");
+}
+.flaticon-speech-bubble:before {
+    content: map-get($flaticon_Tyrone Publishers-map, "speech-bubble");
+}
