@@ -22,7 +22,7 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu, isSear
                             <div className="col-lg-5">
                                 <div className="header-top-right">
                                     <div className="header-contact">
-                                        <Link href="tel:0123456789"><i className="flaticon-phone-call" />+263 775 349 085</Link>
+                                        <Link href="tel:263775349085"><i className="flaticon-phone-call" />+263 775 349 085</Link>
                                     </div>
                                     <div className="header-social">
                                         <ul className="list-wrap">
@@ -54,6 +54,8 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu, isSear
                                                 </li>
                                                 <li className=""><Link href="/services">Services</Link>
                                                 </li>
+                                                <li className=""><Link href="/gallery">Gallery</Link>
+                                                </li>
                                                 <li><Link href="/contact">Contact Us</Link></li>
                                             </ul>
                                         </div>
@@ -72,12 +74,7 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu, isSear
                                         <div className="nav-logo">
                                             <Link href="/"><img  src="/assets/img/logo/logo.png" alt="Logo" /></Link>
                                         </div>
-                                        <div className="mobile-search">
-                                            <form action="#">
-                                                <input type="text" placeholder="Search here..." />
-                                                <button><i className="flaticon-search" /></button>
-                                            </form>
-                                        </div>
+ 
                                         <div className="menu-outer">
                                             <MobileMenu />
                                         </div>

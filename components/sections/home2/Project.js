@@ -13,9 +13,6 @@ export default function Project() {
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-4">
-                            <div className="view-all-btn text-end mb-30">
-                                <Link href="#" className="btn btn-three">See All Projects</Link>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -23,9 +20,7 @@ export default function Project() {
                     <div className="row">
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="project-item-three">
-                                <div className="project-thumb-three">
-                                    <Link href="#"><img src="/assets/img/project/1.jpg" alt="" /></Link>
-                                </div>
+                               \
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">

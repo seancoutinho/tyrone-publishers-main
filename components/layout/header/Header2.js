@@ -26,6 +26,8 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSear
                                                 </li>
                                                 <li className=""><Link href="/services">Services</Link>
                                                 </li>
+                                                <li className=""><Link href="/gallery">Gallery</Link>
+                                                </li>
                                                 <li><Link href="/contact">Contact Us</Link></li>
                                             </ul>
                                         </div>
@@ -56,13 +58,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSear
                                     <nav className="menu-box">
                                         <div className="close-btn" onClick={handleMobileMenu}><i className="fas fa-times" /></div>
                                         <div className="nav-logo">
-                                            <Link href="/"><Image height={600} width={600} src="/assets/img/logo/logo.png" alt="Logo" /></Link>
-                                        </div>
-                                        <div className="mobile-search">
-                                            <form action="#">
-                                                <input type="text" placeholder="Search here..." />
-                                                <button><i className="flaticon-search" /></button>
-                                            </form>
+                                            <Link href="/"><img src="/assets/img/logo/logo.png" alt="Logo" /></Link>
                                         </div>
                                         <div className="menu-outer">
                                             <MobileMenu />

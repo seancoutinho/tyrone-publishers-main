@@ -26,7 +26,6 @@ export default function Features() {
                                     <div className="features-content-three">
                                         <h2 className="title">Graphic Design</h2>
                                         <p>Work with our dedicated team to roll out your designs into a concept from logos, business cards, brochures, pamphlets, posters, fliers, letterheads, etc</p>
-                                        <Link href="/services-details" className="link-btn">See Details <img src="/assets/img/icons/right-arrow.svg" alt="" /></Link>
                                     </div>
                                 </div>
                             </div>
@@ -38,7 +37,6 @@ export default function Features() {
                                     <div className="features-content-three">
                                         <h2 className="title">Printing</h2>
                                         <p>We do large format printing which includes Tear drop banners, roll-up banners, x-frame banners, promotional stands, gazebos, backdrop banners, billboards etc</p>
-                                        <Link href="/services-details" className="link-btn">See Details <img src="/assets/img/icons/right-arrow.svg" alt="" /></Link>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +49,6 @@ export default function Features() {
                                     <div className="features-content-three">
                                         <h2 className="title">Corporate Clothing</h2>
                                         <p>We do branded corporate and promotional clothing. We provide companies with an opportunity to get some of the best branded clothing. get your company logo printed on your work clothes</p>
-                                        <Link href="/services-details" className="link-btn">See Details <img src="/assets/img/icons/right-arrow.svg" alt="" /></Link>
                                     </div>
                                 </div>
                             </div>
@@ -63,7 +60,6 @@ export default function Features() {
                                     <div className="features-content-three">
                                         <h2 className="title">3D Printing</h2>
                                         <p>Experience the future with our 3D printing services. We can bring your ideas to life by creating custom 3D models and prototypes.</p>
-                                        <Link href="/services-details" className="link-btn">See Details <img src="/assets/img/icons/right-arrow.svg" alt="" /></Link>
                                     </div>
                                 </div>
                             </div>
