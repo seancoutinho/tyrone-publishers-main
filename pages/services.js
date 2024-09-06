@@ -1,5 +1,7 @@
 import Layout from "@/components/layout/Layout"
-import Link from "next/link"
+import { LuPrinter } from "react-icons/lu";
+import { PiFlagBannerDuotone } from "react-icons/pi";
+import { IoClipboardSharp } from "react-icons/io5";
 
 export default function Services() {
     return (
@@ -11,7 +13,6 @@ export default function Services() {
                             <div className="col-xl-6 col-lg-8 col-md-10">
                                 <div className="section-title-two text-center mb-50">
                                     <h2 className="title">Spotlight some most important features We have</h2>
-                                    <p>Borem ipsum dolor sit amet consectetur adipiscing elita</p>
                                 </div>
                             </div>
                         </div>
@@ -21,18 +22,18 @@ export default function Services() {
                                     <div className="services-content">
                                         <div className="content-top">
                                             <div className="icon">
-                                                <i className="flaticon-briefcase" />
+                                                <LuPrinter />
                                             </div>
-                                            <h2 className="title">Business Analysis</h2>
+                                            <h2 className="title">Printing and Photocopying</h2>
                                         </div>
                                         <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img01.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
+                                            <img src="/assets/img/services/service-1/printers.webp" alt="" />
+                                            
                                         </div>
                                         <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
+                                            <li>Business Cards | Flyers | Posters</li>
+                                            <li>Brochures | Company Profiles | Letterheads</li>
+                                            <li>Calendars | Pamphlets</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -42,18 +43,17 @@ export default function Services() {
                                     <div className="services-content">
                                         <div className="content-top">
                                             <div className="icon">
-                                                <i className="flaticon-taxes" />
+                                                <PiFlagBannerDuotone />
                                             </div>
-                                            <h2 className="title">Tax Strategy</h2>
+                                            <h2 className="title">Bannners</h2>
                                         </div>
                                         <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img02.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
+                                            <img src="/assets/img/services/service-1/services_img01.jpg" alt="service 2" />
+                                            
                                         </div>
                                         <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
+                                            <li>PullUp Banners | XFrame Banners | Teardrop Banners</li>
+                                            <li>Telescopic Banners | Pop Banners | Backdrop Banners</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -63,81 +63,18 @@ export default function Services() {
                                     <div className="services-content">
                                         <div className="content-top">
                                             <div className="icon">
-                                                <i className="flaticon-money" />
+                                                <IoClipboardSharp />
                                             </div>
-                                            <h2 className="title">Financial Advice</h2>
+                                            <h2 className="title">Promotional Advertising</h2>
                                         </div>
                                         <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img03.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
+                                            <img src="/assets/img/services/service-1/x-frame.jpg" alt="" />
+                                            
                                         </div>
                                         <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-md-6 col-sm-10">
-                                <div className="services-item">
-                                    <div className="services-content">
-                                        <div className="content-top">
-                                            <div className="icon">
-                                                <i className="flaticon-investment" />
-                                            </div>
-                                            <h2 className="title">Market Research</h2>
-                                        </div>
-                                        <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img04.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
-                                        </div>
-                                        <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-md-6 col-sm-10">
-                                <div className="services-item">
-                                    <div className="services-content">
-                                        <div className="content-top">
-                                            <div className="icon">
-                                                <i className="flaticon-data-management" />
-                                            </div>
-                                            <h2 className="title">Business Goal</h2>
-                                        </div>
-                                        <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img05.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
-                                        </div>
-                                        <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-md-6 col-sm-10">
-                                <div className="services-item">
-                                    <div className="services-content">
-                                        <div className="content-top">
-                                            <div className="icon">
-                                                <i className="flaticon-calculator" />
-                                            </div>
-                                            <h2 className="title">Revenue Calculate</h2>
-                                        </div>
-                                        <div className="services-thumb">
-                                            <img src="/assets/img/services/services_img06.jpg" alt="" />
-                                            <Link href="/services-details" className="btn transparent-btn">Our Services</Link>
-                                        </div>
-                                        <ul className="list-wrap">
-                                            <li>seusmeyd tempose atidim area</li>
-                                            <li>aliquam duhipsum is simply free</li>
-                                            <li>Get Life Time Access</li>
+                                            <li>Gazebos</li>
+                                            <li>Promotional Stands | Signage | </li>
+                                            <li>Vehicle Branding | Shop Branding</li>
                                         </ul>
                                     </div>
                                 </div>

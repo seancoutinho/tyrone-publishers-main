@@ -117,15 +117,15 @@ export default function About2() {
                                             </div>
                                         </div>
                                         <div className="team-content">
-                                            <h2 className="title"><Link href="/team-details">Tatenda Mawaro</Link></h2>
-                                            <span>CEO / Marketing Executive</span>
+                                            <h2 className="title">Tatenda Mawaro</h2>
+                                            <span>CEO / Founder</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-xl-3 col-lg-4 col-md-6 col-sm-9">
                                     <div className="team-item">
                                         <div className="team-thumb">
-                                            <img src="/assets/img/team/team_img04.jpg" alt="" />
+                                            <img src="/assets/img/team/team_img02.jpg" alt="" />
                                             <div className="team-social">
                                                 <ul className="list-wrap">
                                                     <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
@@ -136,8 +136,27 @@ export default function About2() {
                                             </div>
                                         </div>
                                         <div className="team-content">
-                                            <h2 className="title"><Link href="/team-details">Tafadzwa S.Bande</Link></h2>
+                                            <h2 className="title">Tafadzwa S.Bande</h2>
                                             <span>Managing Director</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-xl-3 col-lg-4 col-md-6 col-sm-9">
+                                    <div className="team-item">
+                                        <div className="team-thumb">
+                                            <img src="/assets/img/team/team_img03.jpg" alt="" />
+                                            <div className="team-social">
+                                                <ul className="list-wrap">
+                                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
+                                                    <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
+                                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
+                                                    <li><Link href="#"><i className="fab fa-pinterest-p" /></Link></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div className="team-content">
+                                            <h2 className="title">Zvinaiye M.Chiteka.</h2>
+                                            <span>Designer / Marketing Executive</span>
                                         </div>
                                     </div>
                                 </div>
