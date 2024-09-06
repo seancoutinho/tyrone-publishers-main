@@ -616,7 +616,9 @@ label {
 .logo img,
 .f-logo img,
 .fw-logo img {
-  max-height: 29px;
+  max-height: 99px;
+  padding: 10px 0;
+  margin-top: 8px;
 }
 
 .navbar-wrap {
