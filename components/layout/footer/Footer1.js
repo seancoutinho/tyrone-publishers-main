@@ -18,7 +18,8 @@ export default function Footer1() {
                                                         <i className="flaticon-pin" />
                                                     </div>
                                                     <div className="content">
-                                                        <p>58 Street Commercial Road Fratton, Australia</p>
+                                                        <p>No.6 ,Room 11.Lucky Street, Kopje ,
+                                                            Harare Zimbabwe</p>
                                                     </div>
                                                 </li>
                                                 <li>

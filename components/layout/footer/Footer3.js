@@ -11,7 +11,7 @@ export default function Footer3() {
                                 <div className="col-lg-4 col-md-7">
                                     <div className="footer-widget">
                                         <div className="fw-logo">
-                                            <Link href="/"><img src="/assets/img/logo/w_logo.png" alt="" /></Link>
+                                            <Link href="/"><img src="/assets/img/logo/logo.png" alt="" /></Link>
                                         </div>
                                         <div className="footer-content">
                                             <p>Tyrone Publishers is a young and vibrant company with a lot of experience in many different service and product offerings</p>
