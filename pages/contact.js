@@ -17,7 +17,7 @@ export default function Contact() {
                                     <div className="inner-contact-info">
                                         <h2 className="title">Our Office Address</h2>
                                         <div className="contact-info-item">
-                                            <h5 className="title-two">USA Office</h5>
+                                            <h5 className="title-two">Harare Office</h5>
                                             <ul className="list-wrap">
                                                 <li>No.6 ,Room 11.Lucky Street, Kopje ,<br /> Harare, Zimbabwe</li>
                                                 <li>+263 775 349 085</li>
