@@ -6,9 +6,9 @@ export default function Banner() {
                     <div className="row justify-content-center">
                         <div className="col-lg-7 col-md-9 order-0 order-lg-2">
                             <div className="banner-img-three" data-aos="fade-left" data-aos-delay={300}>
-                                <img src="/assets/img/banner/h3_banner_img01.jpg" alt="" className="main-img" />
-                                {/* <img src="/assets/img/banner/h3_banner_img02.jpg" alt="" className="img-two" data-parallax="{&quot;y&quot; : 100 }" /> */}
-                                <img src="/assets/img/banner/h3_banner_img03.jpg" alt="" className="img-three" data-parallax="{&quot;x&quot; : -100 }" />
+                                <img src="/assets/img/banner/h3_banner_img03.jpg" alt="" className="main-img" />
+                                <img src="/assets/img/banner/h3_banner_img02.jpg" alt="" className="img-two" data-parallax="{&quot;y&quot; : 100 }" />
+                                {/* <img src="/assets/img/banner/h3_banner_img03.jpg" alt="" className="img-three" data-parallax="{&quot;x&quot; : -100 }" /> */}
                             </div>
                         </div>
                         <div className="col-lg-5">
