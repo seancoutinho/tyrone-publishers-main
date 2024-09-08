@@ -6,7 +6,7 @@ import { IoClipboardSharp } from "react-icons/io5";
 export default function Services() {
     return (
         <>
-            <Layout headerStyle={6} footerStyle={1} breadcrumbTitle="Our Services">
+            <Layout headerStyle={6} footerStyle={2} breadcrumbTitle="Our Services">
                 <section className="services-area-five inner-services-bg" data-background="/assets/img/bg/inner_services_bg.jpg">
                     <div className="container">
                         <div className="row justify-content-center">

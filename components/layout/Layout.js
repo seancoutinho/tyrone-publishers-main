@@ -58,7 +58,6 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
 
             <main className="fix">
                 {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
-
                 {children}
             </main>
 

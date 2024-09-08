@@ -22,7 +22,7 @@ export default function About2() {
                                     <div className="about-content-eight">
                                         <div className="section-title-two mb-30">
                                             <span className="sub-title">Get To Know More</span>
-                                            <h2 className="title">We Have More Than 20+ Years Of Practical Knowledge in The Printing Industry</h2>
+                                            <h2 className="title">We Have More Than 5+ Years Of Practical Knowledge in The Printing Industry</h2>
                                         </div>
                                         <p></p>
                                         <div className="about-content-inner">
@@ -47,7 +47,7 @@ export default function About2() {
                                                 </li>
                                             </ul>
                                             <div className="right-slide-img">
-                                                <img src="/assets/img/images/inner_about_img04.jpg" alt="" />
+                                                {/* <img src="/assets/img/images/inner_about_img04.jpg" alt="" /> */}
                                             </div>
                                         </div>
                                         <div className="about-content-bottom">

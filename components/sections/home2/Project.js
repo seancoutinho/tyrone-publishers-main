@@ -9,7 +9,7 @@ export default function Project() {
                         <div className="col-lg-5 col-md-8">
                             <div className="section-title-two mb-40 tg-heading-subheading animation-style1">
                                 <span className="sub-title tg-element-title">Complete Projects</span>
-                                <h2 className="title tg-element-title">A Complete Solution For Global Business</h2>
+                                <h2 className="title tg-element-title">A Complete Solution For Business & Individuals in Zimbabwe</h2>
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-4">
@@ -20,7 +20,9 @@ export default function Project() {
                     <div className="row">
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="project-item-three">
-                               \
+                                <div className="project-thumb-three">
+                                    <Link href="#"><img src="/assets/img/project/1.jpg" alt="" /></Link>
+                                </div>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6">
