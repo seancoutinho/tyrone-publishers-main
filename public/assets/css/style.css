@@ -49,10 +49,10 @@
 :root {
   --tg-body-font-family: "Plus Jakarta Sans", sans-serif;
   --tg-heading-font-family: "Urbanist", sans-serif;
-  --tg-primary-color: #0055ff;
-  --tg-secondary-color: #00194c;
+  --tg-primary-color: #1dade0;
+  --tg-secondary-color: #211f60;
   --tg-body-font-color: #334770;
-  --tg-heading-font-color: #00194c;
+  --tg-heading-font-color: #211f60;
   --tg-paragraph-color: #334770;
   --tg-section-background: #f8faff;
   --tg-body-font-size: 16px;
@@ -4461,7 +4461,7 @@ label {
   height: 100%;
   background: linear-gradient(
     360deg,
-    #00194c 11.66%,
+    #211f60 11.66%,
     rgba(0, 25, 76, 0) 65.89%
   );
 }
@@ -4477,7 +4477,7 @@ label {
     360deg,
     rgb(0 25 76 / 55%) 52.77%,
     rgba(0, 25, 76, 0) 100%,
-    #00194c 100%
+    #211f60 100%
   );
   transition: 0.3s linear;
   opacity: 0;

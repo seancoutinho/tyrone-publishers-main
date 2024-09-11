@@ -14,7 +14,7 @@ export default function CircleProgress() {
                     styles={buildStyles({
                         backgroundColor: "transparent",
                         textColor: "#3498DB",
-                        pathColor: "#0055FF",
+                        pathColor: "#1DADE0",
                         trailColor: "#2A3E66",
                         strokeLinecap: "butt"
                     })}
