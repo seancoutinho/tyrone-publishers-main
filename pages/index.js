@@ -11,7 +11,7 @@ import Project from "@/components/sections/home2/Project"
 export default function Home2() {
     return (
         <>
-            <Layout headerTitle='Tyrone Publishers' headerStyle={2} footerStyle={3}>
+            <Layout headerTitle='Tyrone Publishers' headerStyle={2} footerStyle={2}>
                 <Banner />
                 {/* <Brand /> */}
                 <Features />

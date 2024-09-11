@@ -31,9 +31,28 @@ export default function Overview() {
                                         </div>
                                     </div>
                                     <div className="progress-item">
-                                        <h6 className="title">Printing and Photocopying</h6>
+                                        <h6 className="title">Banners and Billboards</h6>
                                         <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={76} aria-valuemin={0} aria-valuemax={100}>
                                             <div className="progress-bar wow slideInLeft" data-wow-delay=".2s" style={{ width: '90%' }}><span>90%</span></div>
+                                        </div>
+                                    </div>
+
+                                    <div className="progress-item">
+                                        <h6 className="title">Vehicle Branding</h6>
+                                        <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
+                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '94%' }}><span>94%</span></div>
+                                        </div>
+                                    </div>
+                                    <div className="progress-item">
+                                        <h6 className="title">Shop & Office Branding</h6>
+                                        <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
+                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '80%' }}><span>80%</span></div>
+                                        </div>
+                                    </div>
+                                    <div className="progress-item">
+                                        <h6 className="title">Printing & Photocopying</h6>
+                                        <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
+                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '70%' }}><span>70%</span></div>
                                         </div>
                                     </div>
                                     <div className="progress-item">
@@ -43,21 +62,9 @@ export default function Overview() {
                                         </div>
                                     </div>
                                     <div className="progress-item">
-                                        <h6 className="title">Screen Printing</h6>
+                                        <h6 className="title">Screen Printing & Heat Press</h6>
                                         <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
-                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '94%' }}><span>94%</span></div>
-                                        </div>
-                                    </div>
-                                    <div className="progress-item">
-                                        <h6 className="title">Heat Transfers</h6>
-                                        <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
-                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '80%' }}><span>80%</span></div>
-                                        </div>
-                                    </div>
-                                    <div className="progress-item">
-                                        <h6 className="title">Vinyl Stickers</h6>
-                                        <div className="progress" role="progressbar" aria-label="Example with label" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100}>
-                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '70%' }}><span>70%</span></div>
+                                            <div className="progress-bar wow slideInLeft" data-wow-delay=".3s" style={{ width: '90%' }}><span>90%</span></div>
                                         </div>
                                     </div>
                                 </div>
