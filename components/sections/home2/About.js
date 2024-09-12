@@ -24,7 +24,7 @@ export default function About() {
                                     <span className="sub-title tg-element-title">Get To know Tyrone Publishers</span>
                                     <h2 className="title tg-element-title">We are the best printing service company in Zimbabwe</h2>
                                 </div>
-                                <p>With over 25 years of experience, we have crafted thousands of graphic templates and printed over a million designs for clients all over the country.</p>
+                                <p>with over 5 years of experience, we have crafted thousands of graphic templates and printed over a million designs for clients all over the country.</p>
                                 <div className="about-list-three">
                                     <ul className="list-wrap">
                                         <li>

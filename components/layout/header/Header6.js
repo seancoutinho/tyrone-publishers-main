@@ -15,7 +15,7 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu, isSear
                                     <ul className="list-wrap">
                                         <li><i className="flaticon-location" />No.6 ,Room 11.Lucky Street, Kopje ,
                                             Harare Zimbabwe</li>
-                                        <li><i className="flaticon-mail" /><Link href="mailto:tyronepublishers@gmail.com">tyronepublishers@gmail.com</Link></li>
+                                        <li><i className="flaticon-mail" /><Link href="mailto:tyronepublishers18@gmail.com">tyronepublishers18@gmail.com</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -72,9 +72,9 @@ export default function Header6({ scroll, isMobileMenu, handleMobileMenu, isSear
                                     <nav className="menu-box">
                                         <div className="close-btn" onClick={handleMobileMenu}><i className="fas fa-times" /></div>
                                         <div className="nav-logo">
-                                            <Link href="/"><img  src="/assets/img/logo/logo.png" alt="Logo" /></Link>
+                                            <Link href="/"><img src="/assets/img/logo/logo.png" alt="Logo" /></Link>
                                         </div>
- 
+
                                         <div className="menu-outer">
                                             <MobileMenu />
                                         </div>

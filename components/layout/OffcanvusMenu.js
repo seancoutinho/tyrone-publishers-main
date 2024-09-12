@@ -23,7 +23,7 @@ export default function OffcanvusMenu({ isOffcanvus, handleOffcanvus }) {
                     </div>
                     <div className="contact-list mb-30">
                         <h4>Email Address</h4>
-                        <p>tyronepublishers@gmail.com</p>
+                        <p>tyronepublishers18@gmail.com</p>
                     </div>
                 </div>
                 {/* <ul className="side-instagram list-wrap">

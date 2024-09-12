@@ -21,8 +21,8 @@ export default function Contact() {
                                             <ul className="list-wrap">
                                                 <li>No.6 ,Room 11.Lucky Street, Kopje ,<br /> Harare, Zimbabwe</li>
                                                 <li>+263 775 349 085</li>
-                                              
-                                                <li>tyronepublishers@gmail.com</li>
+
+                                                <li>tyronepublishers18@gmail.com</li>
                                             </ul>
                                         </div>
                                         {/* <div className="contact-info-item">
