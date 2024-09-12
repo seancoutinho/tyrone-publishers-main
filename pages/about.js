@@ -110,9 +110,7 @@ export default function About2() {
                                             <div className="team-social">
                                                 <ul className="list-wrap">
                                                     <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-pinterest-p" /></Link></li>
+                                            
                                                 </ul>
                                             </div>
                                         </div>
@@ -129,9 +127,7 @@ export default function About2() {
                                             <div className="team-social">
                                                 <ul className="list-wrap">
                                                     <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-pinterest-p" /></Link></li>
+                                            
                                                 </ul>
                                             </div>
                                         </div>
@@ -148,15 +144,30 @@ export default function About2() {
                                             <div className="team-social">
                                                 <ul className="list-wrap">
                                                     <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                                    <li><Link href="#"><i className="fab fa-pinterest-p" /></Link></li>
+                                            
                                                 </ul>
                                             </div>
                                         </div>
                                         <div className="team-content">
                                             <h2 className="title">Zvinaiye M.Chiteka.</h2>
-                                            <span>Designer / Marketing Executive</span>
+                                            <span>Lead Designer / Marketing Executive</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <div className="col-xl-3 col-lg-4 col-md-6 col-sm-9">
+                                    <div className="team-item">
+                                        <div className="team-thumb">
+                                            <img src="/assets/img/team/sarah.jpg" alt="" />
+                                            <div className="team-social">
+                                                <ul className="list-wrap">
+                                                    <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
+                                            
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div className="team-content">
+                                            <h2 className="title">Chikomborero Mawaro</h2>
+                                            <span>Sales & Marketing</span>
                                         </div>
                                     </div>
                                 </div>
