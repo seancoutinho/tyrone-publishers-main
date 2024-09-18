@@ -144,7 +144,6 @@ export default function About2() {
                                             <div className="team-social">
                                                 <ul className="list-wrap">
                                                     <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                            
                                                 </ul>
                                             </div>
                                         </div>

@@ -2,6 +2,7 @@ import Layout from "@/components/layout/Layout"
 import { LuPrinter } from "react-icons/lu";
 import { PiFlagBannerDuotone } from "react-icons/pi";
 import { IoClipboardSharp } from "react-icons/io5";
+import { GiCaravan } from "react-icons/gi";
 
 export default function Services() {
     return (
@@ -22,7 +23,7 @@ export default function Services() {
                                     <div className="services-content">
                                         <div className="content-top">
                                             <div className="icon">
-                                                <LuPrinter />
+                                                <GiCaravan />
                                             </div>
                                             <h2 className="title">Vehicle Branding</h2>
                                         </div>
@@ -127,14 +128,15 @@ export default function Services() {
                                             <div className="icon">
                                                 <IoClipboardSharp />
                                             </div>
-                                            <h2 className="title">Digital Marketing</h2>
+                                            <h2 className="title">Flyers</h2>
                                         </div>
                                         <div className="services-thumb">
-                                            <img src="/assets/img/services/service-1/digital-marketing.jpeg" alt="" />
+                                            <img src="/assets/img/services/service-1/flyers.jpg" alt="" />
 
                                         </div>
                                         <ul className="list-wrap">
-                                            <p>Boost your online presence with Tyrone Publishers' digital marketing services. From social media management to SEO and targeted campaigns, we help your brand reach and engage with the right audience to drive growth and success.</p>
+                                        <p></p>
+                                            <p>Tyrone Publishers offers creative, eye-catching flyer design and high-quality printing services to help you promote your business or event effectively. Our team works closely with you to craft engaging flyers that communicate your message clearly, while our top-tier printing ensures vibrant colors and professional results that leave a lasting impression</p>
                                         </ul>
                                     </div>
                                 </div>

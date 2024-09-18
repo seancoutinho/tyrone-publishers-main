@@ -31,7 +31,63 @@ const Gallery = () => {
                     <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="project-item-three">
                             <div className="project-thumb-three">
-                                <Link href="#"><img src="/assets/img/project/5.jpeg" alt="" /></Link>
+                                <Link href="#"><img src="/assets/img/gallery/15.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/16.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/17.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/18.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/19.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/20.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/21.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/22.jpg" alt="" /></Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-6 col-sm-6">
+                        <div className="project-item-three">
+                            <div className="project-thumb-three">
+                                <Link href="#"><img src="/assets/img/gallery/5.jpeg" alt="" /></Link>
                             </div>
                         </div>
                     </div>

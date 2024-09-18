@@ -1,4 +1,5 @@
 import Layout from "@/components/layout/Layout"
+import { ImDownload } from "react-icons/im"
 
 export default function Contact() {
     return (
@@ -25,14 +26,19 @@ export default function Contact() {
                                                 <li>tyronepublishers18@gmail.com</li>
                                             </ul>
                                         </div>
-                                        {/* <div className="contact-info-item">
-                                            <h5 className="title-two">Australia Office</h5>
-                                            <ul className="list-wrap">
-                                                <li>Harare Zimbabwe<br /> Monica, CA 90401, USA</li>
-                                                <li>+1 (310) 620-8565</li>
-                                                <li>info@gmail.com</li>
-                                            </ul>
-                                        </div> */}
+                                        <div className="contact-info-item mt-4">
+                                            <h5 className="title-two">Download Our Company Profile</h5>
+                                            <div className="mt-2">
+                                                <a
+                                                    href="/tyrone-company-profile.pdf"
+                                                    download
+                                                    className="inline-flex items-center px-4 py-2 bg-blue-500 hover:bg-blue-600 text-black font-semibold rounded-lg transition duration-300 ease-in-out"
+                                                >
+                                                    <ImDownload />
+                                                     | Download Company Profile
+                                                </a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
