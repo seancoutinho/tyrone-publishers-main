@@ -30,7 +30,7 @@ export default function Contact() {
                                             <h5 className="title-two">Download Our Company Profile</h5>
                                             <div className="mt-2">
                                                 <a
-                                                    href="/tyrone-company-profile.pdf"
+                                                    href="/tyrone-company-profile-portable.pdf"
                                                     download
                                                     className="inline-flex items-center px-4 py-2 bg-blue-500 hover:bg-blue-600 text-black font-semibold rounded-lg transition duration-300 ease-in-out"
                                                 >
