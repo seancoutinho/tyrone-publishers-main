@@ -1,4 +1,5 @@
 import Layout from "@/components/layout/Layout"
+import Testimonial from "@/components/sections/home4/Testimonial"
 import About from "@/components/sections/home2/About"
 import Banner from "@/components/sections/home2/Banner"
 import Counter from "@/components/sections/home2/Counter"
@@ -18,6 +19,7 @@ export default function Home2() {
                 <About />
                 <Overview />
                 <Project />
+                {/* <Testimonial /> */}
                 <Counter />
                 <Cta />
             </Layout>

@@ -75,7 +75,7 @@ export default function Testimonial() {
                             <div className="testimonial-content-five">
                                 <div className="section-title title-three mb-50 tg-heading-subheading animation-style1">
                                     <span className="sub-title tg-element-title">Our Testimonials</span>
-                                    <h2 className="title tg-element-title">What our awesome customers say</h2>
+                                    <h2 className="title tg-element-title">Here are some companies references we did work for</h2>
                                 </div>
                                 <div className="testimonial-item-wrap-five">
                                     <Slider ref={sliderRef} {...settings} className="testimonial-active-five">
@@ -95,12 +95,9 @@ export default function Testimonial() {
                                                 </div>
                                                 <p>“ Morem ipsum dolor sit amet, consectetur adipiscing elita florai sum dolor sit amet, consecteture.Borem ipsum dolor sit amet, consectetur.</p>
                                                 <div className="testimonial-avatar">
-                                                    <div className="avatar-thumb">
-                                                        <img src="/assets/img/images/testi_avatar01.png" alt="" />
-                                                    </div>
                                                     <div className="avatar-info">
-                                                        <h2 className="title">Mr.Robey Alexa</h2>
-                                                        <span>CEO, Tyrone Publishers Agency</span>
+                                                        <h2 className="title">Ms Bather</h2>
+                                                        <span>Graphic Designer, Grant Thornton</span>
                                                     </div>
                                                 </div>
                                             </div>
